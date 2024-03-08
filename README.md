@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **zahid092016@gmail.com**
 
-- 📄Take a look at my [https://drive.google.com/file/d/1Qf5ZccJvT8fjORMP2uQkzBFcgZdRsHtM/view?usp=sharing](https://drive.google.com/file/d/1Qf5ZccJvT8fjORMP2uQkzBFcgZdRsHtM/view?usp=sharing)
+- 📄Take a look at my Resume (https://drive.google.com/file/d/1Qf5ZccJvT8fjORMP2uQkzBFcgZdRsHtM/view?usp=sharing)
 
 - ⚡ Fun fact **I love physics!**
 
