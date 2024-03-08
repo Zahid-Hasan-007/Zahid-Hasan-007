@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm ZAHID HASAN</h1>
-<h3 align="center">A Computer Engineering student passionate about Cyber Security.</h3>
+<h3 align="center">A **Computer Engineering student** passionate about **Cyber Security.**</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahid-hasan-007" alt="zahid-hasan-007" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄Take a look at my [Resume](https://drive.google.com/file/d/1Qf5ZccJvT8fjORMP2uQkzBFcgZdRsHtM/view?usp=sharing)
 
-- ⚡ Fun fact **I love physics!**
+- ⚡ Fun fact- **I love physics!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
