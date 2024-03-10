@@ -34,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahid-hasan-007&show_icons=true&locale=en" alt="zahid-hasan-007" /> </p> 
 
 
+| <a href="https://github.com/zahid-hasan-007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zahid-hasan-007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zahid's github stats" /></a> | <a href="https://github.com/zahid-hasan-007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-hasan-007&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
