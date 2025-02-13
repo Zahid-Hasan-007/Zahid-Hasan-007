@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning, Shell scripting, Networking**
 
-- 📫 Reach me at **zahid092016@gmail.com**
+- 📫 Reach me at **admin@zahidhasan.me**
 
 - 📄Take a look at my [Resume](https://drive.google.com/file/d/1Qf5ZccJvT8fjORMP2uQkzBFcgZdRsHtM/view?usp=sharing)
 
